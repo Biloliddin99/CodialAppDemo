@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyMenuDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">#12677F</item>
+        <item name="dialogCornerRadius">8dp</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:background">#1A4E79</item>
+    </style>
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">#FFB800</item>
+    </style>
+</resources>
